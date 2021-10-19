@@ -15,7 +15,7 @@ background-color: #dfdfdf;
   box-sizing: border-box; }
 
 a:hover{
-  color: darkred;
+  color: yellow;
   /*text-decoration: underline;*/
 }
 .nav_pad{
